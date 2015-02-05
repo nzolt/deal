@@ -1,0 +1,66 @@
+.players{
+    display: block;
+    height: 75px;
+}
+.playername{
+    width: 120px;
+    float: left;
+}
+.Cards{
+    width: 50px;
+    height: 75px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.Ace{
+    background-position: 0px;
+}
+.Two{
+    background-position: -48px;
+}
+.Three{
+    background-position: -96px;
+}
+.Four{
+    background-position: -144px;
+}
+.Five{
+    background-position: -192px;
+}
+.Six{
+    background-position: -240px;
+}
+.Seven{
+    background-position: -288px;
+}
+.Eight{
+    background-position: -336px;
+}
+.Nine{
+    background-position: -384px;
+}
+.Ten{
+    background-position: -432px;
+}
+.Jack{
+    background-position: -480px;
+}
+.Queen{
+    background-position: -528px;
+}
+.King{
+    background-position: -576px;
+}
+.Heart{
+    background-image: url("hearts.jpg");
+}
+.Club{
+    background-image: url("clubs.jpg");
+}
+.Diamond{
+    background-image: url("diamonds.jpg");
+}
+.Spade{
+    background-image: url("spades.jpg");
+}
+
